@@ -1,6 +1,6 @@
 module snippetbox.yukiya.net
 
-go 1.17
+go 1.18
 
 require (
 	github.com/alexedwards/scs/mysqlstore v0.0.0-20220528130143-d93ace5be94b // indirect
